@@ -16,7 +16,7 @@ public class NextLineTrap {
 		
 		System.out.println("\n Enter a greeting: ");
 		String greeting  =scanner.next();
-		
+		System.out.println("Welcome to "+greeting);
 		//nextDouble() example 
 		System.out.println("Enter the price of Book coffee and a meal");
 		double bookPrice =scanner.nextDouble();
